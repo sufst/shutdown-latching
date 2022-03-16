@@ -414,6 +414,14 @@
     [
       "40561fdd-1616-4bb8-9382-cc241764287e",
       ""
+    ],
+    [
+      "035968d2-87cc-4da3-bf07-e290a3489a03",
+      "Latching"
+    ],
+    [
+      "bf35f437-e155-49d7-94b1-c2ecbbf782df",
+      "Window Detection"
     ]
   ],
   "text_variables": {}
